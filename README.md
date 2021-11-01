@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliraza33833
+- 👋 Hi, I’m Ali Raza
 - 👀 I’m interested in Data Science, Machine learning, Deep Learning, 
 - 🌱 I’m currently learning Data Scientist with Python from DataCamp
 - 💞️ I’m looking to collaborate on ...
